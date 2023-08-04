@@ -1,1 +1,1 @@
-This is a repo that contains numerous shell scripts
+This is a repo containing the different shell projects
