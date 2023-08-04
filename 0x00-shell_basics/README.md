@@ -3,3 +3,4 @@
 2-bring_me_home: The command "cd" with no arguments after to return home
 3-listfiles: The command "ls" with argument "-l" to list the files in the current directory with detail
 4-listmorefiles: The command "ls -l" with argument "-a" to display hidden files as well
+5-listfilesdigitonly: The command "ls -n" to list the details along with group ids and user ids
