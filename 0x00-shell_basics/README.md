@@ -5,3 +5,4 @@
 4-listmorefiles: The command "ls -l" with argument "-a" to display hidden files as well
 5-listfilesdigitonly: The command "ls -a" with argument "-n" to list the details along with group ids and user ids
 6-firstdirectory: making a directory in the tmp folder
+7-movethatfile: Moving a file
