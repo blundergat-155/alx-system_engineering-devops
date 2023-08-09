@@ -8,3 +8,4 @@
 7-file: creates a file with a ridiculously long name with the words "Best School" typed within it
 8-cwd_stat: display the state of the current working directory
 9-duplicate_last_line: duplicates the last line of the iacta file
+10-n_more_js: deletes all js files in current directory, including any subdirectory
