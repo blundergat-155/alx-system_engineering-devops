@@ -8,9 +8,10 @@
 7-file: creates a file with a ridiculously long name with the words "Best School" typed within it
 8-cwd_stat: display the state of the current working directory
 9-duplicate_last_line: duplicates the last line of the iacta file
-10-n_more_js: deletes all js files in current directory, including any subdirectory
+10-no_more_js: deletes all js files in current directory, including any subdirectory
 11-directories: displays number of directories and subdirectories inside current directory
 2-newest_files: display the 10 most recent files
 13-unique: displays lines that occur only once in a file
 14-findthatword: display each line containg the word root in the passwd file in the etc directory
 16-whatsnext: display 3 lines following matching the word root in a line in the file passwd in the etc directory
+17-hidethisword: display all lines not containing the word root in the passwd file
