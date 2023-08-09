@@ -13,3 +13,4 @@
 2-newest_files: display the 10 most recent files
 13-unique: displays lines that occur only once in a file
 14-findthatword: display each line containg the word root in the passwd file in the etc directory
+16-whatsnext: display 3 lines following matching the word root in a line in the file passwd in the etc directory
