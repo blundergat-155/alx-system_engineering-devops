@@ -20,3 +20,4 @@ grep -n "^([a-z]|[A-Z])" ~/../etc/passwd
 19-AZ: replace the letter A and c with Z and e respectively
 20-hiago: replace the letter c ignoring case with the empty string
 21-reverse: reverse a string input
+22-users_and_homes: display all users and their homes sorted by user
