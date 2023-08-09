@@ -5,3 +5,4 @@
 4-lastlines: print the last ten lines of passwd
 5-firstlines: print the first 10 lines of passwd
 6-thirdline: display the third line of a file
+7-file: creates a file with a ridiculously long name with the words "Best School" typed within it
