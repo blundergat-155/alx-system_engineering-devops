@@ -17,3 +17,4 @@
 17-hidethisword: display all lines not containing the word root in the passwd file
 grep -n "^([a-z]|[A-Z])" ~/../etc/passwd
 18-letteronly: display all lines beginning with a letter
+19-AZ: replace the letter A and c with Z and e respectively
