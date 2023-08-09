@@ -19,3 +19,4 @@ grep -n "^([a-z]|[A-Z])" ~/../etc/passwd
 18-letteronly: display all lines beginning with a letter
 19-AZ: replace the letter A and c with Z and e respectively
 20-hiago: replace the letter c ignoring case with the empty string
+21-reverse: reverse a string input
