@@ -6,3 +6,4 @@
 5-firstlines: print the first 10 lines of passwd
 6-thirdline: display the third line of a file
 7-file: creates a file with a ridiculously long name with the words "Best School" typed within it
+8-cwd_stat: display the state of the current working directory
