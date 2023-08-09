@@ -9,3 +9,4 @@
 8-cwd_stat: display the state of the current working directory
 9-duplicate_last_line: duplicates the last line of the iacta file
 10-n_more_js: deletes all js files in current directory, including any subdirectory
+11-directories: displays number of directories and subdirectories inside current directory
