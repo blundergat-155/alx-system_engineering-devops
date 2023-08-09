@@ -11,3 +11,4 @@
 10-n_more_js: deletes all js files in current directory, including any subdirectory
 11-directories: displays number of directories and subdirectories inside current directory
 2-newest_files: display the 10 most recent files
+13-unique: displays lines that occur only once in a file
