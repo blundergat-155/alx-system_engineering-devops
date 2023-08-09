@@ -15,3 +15,5 @@
 14-findthatword: display each line containg the word root in the passwd file in the etc directory
 16-whatsnext: display 3 lines following matching the word root in a line in the file passwd in the etc directory
 17-hidethisword: display all lines not containing the word root in the passwd file
+grep -n "^([a-z]|[A-Z])" ~/../etc/passwd
+18-letteronly: display all lines beginning with a letter
