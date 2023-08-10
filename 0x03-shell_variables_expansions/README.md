@@ -9,3 +9,4 @@
 8-true_knowledge: prints the sum of the global variable and 128 which yields LEET
 9-divide_and_rule: divide two global variables
 10-love_exponent_breath: global variable to the power of another global variable
+11-binary_to_decimal: converting from binary to decimal to arrive at LEET yet again
