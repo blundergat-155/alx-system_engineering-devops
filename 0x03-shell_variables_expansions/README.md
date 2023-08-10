@@ -4,3 +4,4 @@
 3-paths: print the number of directories in path
 4-global_variables: print the environment variables
 5-local_variables: display all local variables and functions
+6-create_local_variable: create a variable named BEST with the value School
