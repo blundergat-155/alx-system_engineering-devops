@@ -6,3 +6,4 @@
 5-local_variables: display all local variables and functions
 6-create_local_variable: create a variable named BEST with the value School
 7-create_global_variable: does what it says on the can
+8-true_knowledge: prints the sum of the global variable and 128 which yields LEET
